@@ -1,0 +1,36 @@
+Please copy paste this text and adjust things to your device.
+
+----This is the title, copy paste and adjust----
+[ROM][Pie][OFFICIAL] COSP [9.0.0][Enter device name here]
+
+-------This is the XDA Thread text, copy and paste and add links------
+[CENTER][SIZE="7"]COSP[/SIZE][/CENTER]
+[CENTER](logo to be added lul)[/CENTER]
+
+[CODE]**** Disclaimer: I'm not responsible if you destroy your device. Use at your own risk!!! ****[/CODE]
+
+Welcome to COSP, your new future Android Operating System.
+Our goal is to have an Pixel-like android ROM that isn't spying on you and uses as few system space as possible. Also, we provide the option to go completely without GApps using MicroG support.
+
+Why us?
+[HIDE]We are focusing on stability and performance, having an debloated ROM is essential for that. Also, we want Users to decide what kind of Store they want to use, either F-Droid or the Play Store.
+Also, we take User requests serious. To suggest something, contact us on [URL="http://t.me/cospcommunity"]telegram.[/URL][/HIDE]
+
+Features:
+[HIDE]
+1) All systemUI tuning elements
+2) An handy Network indicator
+3) Charging Information
+4) Lawnchair and Quickstep as default
+5) Quick Settings mods
+
+OTA Updating for official devices enables Users to get the newest version with ease.
+[/HIDE]
+
+[SIZE="5"][COLOR="Cyan"]DOWNLOADS:[/COLOR][/SIZE]
+URL HERE
+
+Sources:
+ROM Source: https://github.com/despOSitoROM/
+Kernel Source code: (maintainers put link here)
+Device tree: (maintainers plox xd)
