@@ -31,6 +31,6 @@ OTA Updating for official devices enables Users to get the newest version with e
 URL HERE
 
 Sources:
-ROM Source: https://github.com/despOSitoROM/
+ROM Source: https://github.com/cosp-project/
 Kernel Source code: (maintainers put link here)
 Device tree: (maintainers plox xd)
