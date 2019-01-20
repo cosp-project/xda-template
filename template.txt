@@ -23,6 +23,7 @@ Features:
 3) Charging Information
 4) Lawnchair and Quickstep as default
 5) Quick Settings mods
+6) Signature spoofing
 
 OTA Updating for official devices enables Users to get the newest version with ease.
 [/HIDE]
