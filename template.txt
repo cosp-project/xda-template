@@ -24,6 +24,13 @@ Features:
 4) Lawnchair and Quickstep as default
 5) Quick Settings mods
 6) Signature spoofing
+7) OP gestures
+8) Navbar tuner
+9) Rootless Substratum (with fixes to theme system correctly)
+10) Screenshot/screenrecord tile
+11) Advanced power menu
+12) Double tap to sleep on statusbar
+13) Option to disable quick settings/power menu on secure lockscreen
 
 OTA Updating for official devices enables Users to get the newest version with ease.
 [/HIDE]
