@@ -4,7 +4,6 @@ Please copy paste this text and adjust things to your device.
 [ROM][Pie][OFFICIAL] COSP [9.0.0][Enter device name here]
 
 -------This is the XDA Thread text, copy and paste and add links------
-[CENTER][SIZE="7"]COSP[/SIZE][/CENTER]
 [URL="https://cosp-project.org"][CENTER][IMG]https://raw.githubusercontent.com/cosp-project/xda-template/master/logo.png[/IMG][/CENTER][/URL]
 
 [CODE]**** Disclaimer: I'm not responsible if you destroy your device. Use at your own risk!!! ****[/CODE]
